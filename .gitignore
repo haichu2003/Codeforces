@@ -1,4 +1,4 @@
-.vscode/*
-./leetcode/*
+leetcode/.vscode/*
+leetcode/*
 !*.cpp
 !.gitignore
